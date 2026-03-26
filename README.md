@@ -54,6 +54,18 @@ Digital literacy refers to the ability to use digital tools and technologies eff
 - Better access to information  
 
 ---
+## Task 1 — Digital Literacy Infographic
+
+Created an infographic using Canva covering key digital literacy topics:
+
+- What is Digital Literacy  
+- Useful Digital Tools  
+- Safe Internet Practices  
+- Professional Online Behaviour  
+- Email Etiquette  
+- Benefits of Digital Literacy  
+
+The infographic presents information in a simple and visually clear format.
 
 📁 **Folder:** `task-1-presentation/`
 
@@ -81,7 +93,7 @@ Completed:
 - Created Digital Literacy Quiz using Google Forms  
 - Generated response sheet  
 
-🔗 Google Form Link: (paste your link here)
+🔗 Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSd37HrUJsQUvaTuAG_HOdktw97XhESi0FYFt7tEshh6JUWKSw/viewform?usp=publish-editor
 
 📁 **Folder:** `task-3-platforms/`
 
@@ -95,7 +107,7 @@ Created:
 - Internship inquiry email  
 - Social media do’s and don’ts checklist  
 
-📁 **Folder:** `task-4-email-etiquette/`
+📁 **Folder:** `ask-4-email-etiquette/`
 
 ---
 
