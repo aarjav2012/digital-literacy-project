@@ -67,7 +67,7 @@ Created an infographic using Canva covering key digital literacy topics:
 
 The infographic presents information in a simple and visually clear format.
 
-📁 **Folder:** `task-1-presentation/`
+**Folder:** `task-1-presentation/`
 
 ---
 
@@ -81,7 +81,7 @@ Created/updated profiles on:
 
 These platforms help build a professional digital presence and improve career opportunities.
 
-📁 **Folder:** `task-2-portfolio/`
+ **Folder:** `task-2-portfolio/`
 
 ---
 
@@ -93,9 +93,9 @@ Completed:
 - Created Digital Literacy Quiz using Google Forms  
 - Generated response sheet  
 
-🔗 Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSd37HrUJsQUvaTuAG_HOdktw97XhESi0FYFt7tEshh6JUWKSw/viewform?usp=publish-editor
+ Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSd37HrUJsQUvaTuAG_HOdktw97XhESi0FYFt7tEshh6JUWKSw/viewform?usp=publish-editor
 
-📁 **Folder:** `task-3-platforms/`
+ **Folder:** `task-3-platforms/`
 
 ---
 
@@ -107,7 +107,7 @@ Created:
 - Internship inquiry email  
 - Social media do’s and don’ts checklist  
 
-📁 **Folder:** `ask-4-email-etiquette/`
+ **Folder:** `ask-4-email-etiquette/`
 
 ---
 
@@ -118,7 +118,7 @@ Created:
 - Case study on phishing  
 - Prevention checklist  
 
-📁 **Folder:** `task-5-cybercrime/`
+ **Folder:** `task-5-cybercrime/`
 
 ---
 
