@@ -147,8 +147,8 @@ Through this project, I learned:
 
 ##  Project Report
 
-📁 **Folder:** `report/`
+ **Folder:** `report/`
 
 ---
 
-⭐ This project helped me understand the importance of digital literacy and develop essential digital skills.
+ This project helped me understand the importance of digital literacy and develop essential digital skills.
